@@ -1,9 +1,10 @@
-﻿
-Console.WriteLine("Введите имя пользователя: ");
-string username = console.readline();
-if (username == "Люля");
+﻿Console.WriteLine("Введите имя пользователя: ");
+
+String username = Console.ReadLine();
+
+if(username == "Люля")
     {
-    Console.writeline("Здравствуй, солнышко!!!");
+    Console.WriteLine("Здравствуй, солнышко!!!");
     }
 else
     {
